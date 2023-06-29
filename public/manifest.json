@@ -1,0 +1,14 @@
+{
+  "name": "Chrome React Extension with Clerk",
+  "description": "Test Chrome extensions with Clerk",
+  "version": "0.1",
+  "manifest_version": 3,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "icons": {
+    "16": "logo192.png",
+    "48": "logo192.png",
+    "128": "logo192.png"
+  }
+}
